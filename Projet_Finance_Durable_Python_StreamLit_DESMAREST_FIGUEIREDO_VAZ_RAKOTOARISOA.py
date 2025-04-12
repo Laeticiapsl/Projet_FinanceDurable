@@ -15,7 +15,7 @@ import seaborn as sns
 
 # Chemin du fichier Excel
 
-file_path = "/Users/desma/OneDrive/Documents/Université/Université Paris Dauphine-PSL/M1/S2/Économie de l'Énergie et de l'Environnement/Data_Base.xlsx"
+file_path = "Data_Base.xlsx"
 
 # Mise en cache des données pour éviter les rechargements inutiles
 @st.cache_data
