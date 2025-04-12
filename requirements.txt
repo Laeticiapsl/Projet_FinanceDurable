@@ -6,3 +6,4 @@ cvxpy
 plotly
 pycountry
 seaborn
+openpyxl
